@@ -39,8 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Starting Screen
 ![](https://github.com/AlexKCheung/CodePath-SITE-Prework/blob/main/Gifs/game%20starting.gif)
+Game win
 ![](https://github.com/AlexKCheung/CodePath-SITE-Prework/blob/main/Gifs/game%20win.gif)
+Game lose
 ![](https://github.com/AlexKCheung/CodePath-SITE-Prework/blob/main/Gifs/game%20lose.gif)
 
 ## Reflection Questions
