@@ -79,6 +79,8 @@ Further ideas that come up to my mind is maybe adding more games into this websi
 
 Sorry video quality isn't 4k... I tried my best choosing between my old laptop's fuzzy camera, outdated android phone, and a 10+ year old webcam. 
 
+
+## Thank you for your time and consideration of my application!!! 
 ## License
 
     Copyright [Alex Cheung]
