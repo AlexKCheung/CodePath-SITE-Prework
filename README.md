@@ -20,6 +20,8 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 * [x] User loses the game after an incorrect guess
 
+NOTE: WILL BE ADDING MORE AFTER MY FINALS THIS WEEK!
+
 The following **optional** features are implemented:
 
 * [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
@@ -63,6 +65,8 @@ I was wondering how to connect the database to the cloud. Maybe if there was a l
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
+NOTE: Will come back to add more features after my finals this week!
+
 If I had a few more hours to work on this project, I would implement the additional features of generating a random secret pattern, so that when I play the game myself, I can play without knowing beforehand the pattern answer key. 
 
 Further ideas that come up to my mind is maybe adding more games into this website. When the user enters the site, they can be greeted by several games, one of which is this light and sound memory game, another perhaps tic tac toe, etc. 
@@ -71,8 +75,9 @@ Further ideas that come up to my mind is maybe adding more games into this websi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1hjLthWOn_Y6poBmUOJEsJcBjOv2ET4Cn/view?usp=sharing)
 
+Sorry video quality isn't 4k... I tried my best choosing between my old laptop's fuzzy camera, outdated android phone, and a 10+ year old webcam. 
 
 ## License
 
