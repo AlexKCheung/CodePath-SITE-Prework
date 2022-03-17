@@ -10,6 +10,7 @@ const nextClueWaitTime = 1000;
 
 // global variables 
 var pattern = [2, 2, 4, 3, 2, 1, 2, 4]; // 8 
+// need to change pattern to generate random secret pattern
 var progress = 0;
 var gamePlaying = false;
 // for sounds
@@ -23,6 +24,14 @@ function startGame() {
   // initalize game variables
   progress = 0;
   gamePlaying = true;
+  
+  // optional added
+  // use random to generate random secret pattern
+  for (let i = 0; i < 8; i++) {
+    // inspired by https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
+    // modified to fit for project, integer from 1-4
+    pattern[i] = Math.floor(Math.random() * 4 + 1);
+  }  
   
   // swap start and stop button functionality
   document.getElementById("startBtn").classList.add("hidden");

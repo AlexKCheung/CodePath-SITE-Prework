@@ -20,15 +20,13 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 * [x] User loses the game after an incorrect guess
 
-NOTE: WILL BE ADDING MORE AFTER MY FINALS THIS WEEK!
-
 The following **optional** features are implemented:
 
 * [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -51,7 +49,7 @@ Game lose
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-I just used CodePath's required steps guide. 
+I used CodePath's required steps guide. I also used Mozilla's developer docs for Math.random() in which I modified a little to help generate an integer 1-4 so that the user can have a different random secret pattern every time the game is played. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
@@ -63,13 +61,10 @@ Another challenge I encountered, was while testing my webpage locally on my comp
 
 I was wondering how to connect the database to the cloud. Maybe if there was a login button and everyone can create an account to store their score, how would the database be managed? In one of my personal projects, I was able to connect a database to my website, but only host locally, so I was wondering how to expand upon this functionality. 
 
+note: added random pattern
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
-NOTE: Will come back to add more features after my finals this week!
-
-If I had a few more hours to work on this project, I would implement the additional features of generating a random secret pattern, so that when I play the game myself, I can play without knowing beforehand the pattern answer key. 
-
-Further ideas that come up to my mind is maybe adding more games into this website. When the user enters the site, they can be greeted by several games, one of which is this light and sound memory game, another perhaps tic tac toe, etc. 
+Further ideas that come up to my mind is maybe adding more games into this website. When the user enters the site, they can be greeted by several games, one of which is this light and sound memory game, another perhaps tic tac toe, etc. This essentially can be a hub for a user to play an assortment of games. 
 
 
 
