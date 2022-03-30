@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's internship Program. 
 
 Submitted by: **Alex Cheung**
 
@@ -72,7 +72,7 @@ Further ideas that come up to my mind is maybe adding more games into this websi
 
 [My 5-minute Interview Recording](https://drive.google.com/file/d/1hjLthWOn_Y6poBmUOJEsJcBjOv2ET4Cn/view?usp=sharing)
 
-Sorry video quality isn't 4k... I tried my best choosing between my old laptop's fuzzy camera, outdated android phone, and a 10+ year old webcam. 
+Sorry video quality isn't the best...
 
 
 ## Thank you for your time and consideration of my application!!! 
